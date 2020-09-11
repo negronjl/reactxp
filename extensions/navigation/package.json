@@ -19,7 +19,7 @@
     "@types/lodash": "4.14.123",
     "@types/node": "11.11.3",
     "assert": "1.4.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.20",
     "rebound": "0.1.0",
     "reactxp-experimental-navigation": "1.0.14"
   },
